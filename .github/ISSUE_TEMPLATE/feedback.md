@@ -1,6 +1,6 @@
 ---
 name: Feedback
-about: Describe this issue template's purpose here.
+about: Utilizzare questo template per domande e suggerimenti
 title: "[Feedback]"
 labels: enhancement
 assignees: ''
