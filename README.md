@@ -7,9 +7,9 @@ I'm not a professional translator so there might be some errors. Please feel fre
 
 ### How to Install
 * Download latest release
-* Go to your infra installation directory and open the folder infra/resources - $GAME_DIR/infra/resources
+* Go to your infra installation directory and open the folder infra/resources - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/infra/resources/
 * Extract the .txt files here
-* Go back to your game installation dir/infra and extract the .bat file here - $GAME_DIR
+* Go back to your game installation dir/infra and extract the .bat file here - orrect path (replace $GAME_DIR with your installation path): $GAME_DIR/
 * Run the bat file
 * Open the game and enjoy
 
@@ -20,8 +20,8 @@ Non sono un traduttore professionista quindi potrebbero esserci alcuni errori. P
 
 ### Come installare
 * Scaricare l'ultima release
-* Recarsi nella cartella di installazione di infra ed aprire la cartella infra/resources - $GAME_DIR/infra/resources/
+* Recarsi nella cartella di installazione di infra ed aprire la cartella infra/resources - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/infra/resources/
 * Estrarre i file .txt qui
-* Tornare indietro alla cartella di installazione del gioco - $GAME_DIR/
+* Tornare indietro alla cartella di installazione del gioco - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/
 * Aprire il file bat
 * Avviare il gioco
