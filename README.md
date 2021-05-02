@@ -9,7 +9,7 @@ I'm not a professional translator so there might be some errors. Please feel fre
 * Download latest release
 * Go to your infra installation directory and open the folder infra/resources - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/infra/resources/
 * Extract the .txt files here
-* Go back to your game installation dir/infra and extract the .bat file here - orrect path (replace $GAME_DIR with your installation path): $GAME_DIR/
+* Go back to your game installation dir/infra and extract the .bat file here - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/
 * Run the bat file
 * Open the game and enjoy
 
