@@ -6,7 +6,7 @@ It contains subtitles and some UI/in-game emails translations. Textures, newspap
 I'm not a professional translator so there might be some errors. Please feel free to report them in the Issues section (follow the template!). You can also submit issues to provide feedback (use the correct tag).
 
 ### How to Install
-* Download latest release
+* Download latest release (Note: the translation files will be in the folder named as the release version. For example: 1.2.zip/1.2/*.txt)
 * Go to your infra installation directory and open the folder infra/resources - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/infra/resources/
 * Extract the .txt files here
 * Go back to your game installation dir/infra and extract the .bat file here - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/
@@ -19,7 +19,7 @@ Contiene le traduzioni dei sottotitoli e alcuni di alcuni elementi UI ed email i
 Non sono un traduttore professionista quindi potrebbero esserci alcuni errori. Potete segnalarli nella sezione Issues seguendo il template. È possibile utilizzare la stessa sezione per fornire feedback (utilizzate il tag corretto).
 
 ### Come installare
-* Scaricare l'ultima release
+* Scaricare l'ultima release (Nota: i file della traduzione si trovano nella cartella chiamata come la versione della release es. 1.2.zip/1.2/*txt)
 * Recarsi nella cartella di installazione di infra ed aprire la cartella infra/resources - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/infra/resources/
 * Estrarre i file .txt qui
 * Tornare indietro alla cartella di installazione del gioco - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/
