@@ -19,7 +19,7 @@ Contiene le traduzioni dei sottotitoli e alcuni di alcuni elementi UI ed email i
 Non sono un traduttore professionista quindi potrebbero esserci alcuni errori. Potete segnalarli nella sezione Issues seguendo il template. È possibile utilizzare la stessa sezione per fornire feedback (utilizzate il tag corretto).
 
 ### Come installare
-* Scaricare l'ultima release (Nota: i file della traduzione si trovano nella cartella chiamata come la versione della release es. 1.2.zip/1.2/*txt)
+* Scaricare l'ultima release (Nota: i file della traduzione si trovano nella cartella chiamata come la versione della release es. 1.2.zip/1.2/*.txt)
 * Recarsi nella cartella di installazione di infra ed aprire la cartella infra/resources - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/infra/resources/
 * Estrarre i file .txt qui
 * Tornare indietro alla cartella di installazione del gioco - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/
