@@ -1,0 +1,21 @@
+﻿"lang"
+{
+	"Language" "italian"
+	"Tokens"
+	{
+		"Player.SuccessfulPhoto"						"<sfx><clr:170,240,209>[Foto corretta]"
+		"[english]Player.SuccessfulPhoto"				"<sfx><clr:170,240,209>[Successful Photo]"
+		"Player.CorruptionUncovered"					"<sfx><clr:170,240,209>[Scoperte prove corruzione]"
+		"[english]Player.CorruptionUncovered"			"<sfx><clr:170,240,209>[Corruption Uncovered]"
+		"Player.SpotRepaired"							"<sfx><clr:170,240,209>[Punto riparato]"
+		"[english]Player.SpotRepaired"					"<sfx><clr:170,240,209>[Spot Repaired]"
+
+		"Player.PainGas"								"<sfx><clr:250,231,181><norepeat:4><len:2>[Tossendo]"
+		"[english]Player.PainGas"						"<sfx><clr:250,231,181><norepeat:4><len:2>[Coughing]"
+
+		"Villa.Tape002.DoorOpenWithForce001"			"<sfx><I><len:2>[La porta si apre]"
+		"[english]Villa.Tape002.DoorOpenWithForce001"	"<sfx><I><len:2>[Door Busts Open]"
+		"Villa.Tape002.Gunshot001"						"<sfx><I><norepeat:4><len:2>[Spari]"
+		"[english]Villa.Tape002.Gunshot001"				"<sfx><I><norepeat:4><len:2>[Gunshots]"
+	}
+}
