@@ -1,0 +1,860 @@
+﻿"lang"
+{
+	"Language" "Italian"
+
+	"Tokens"
+	{
+		"infra_menu_play" "Gioca"
+		"[english]infra_menu_play" "Play"
+		"infra_menu_continue" "Continua"
+		"[english]infra_menu_continue" "Continue"
+		"infra_menu_new_game" "Nuovo Gioco"
+		"[english]infra_menu_new_game" "New Game"
+		"infra_menu_load_game" "Carica"
+		"[english]infra_menu_load_game" "Load Game"
+		"infra_menu_options" "Opzioni"
+		"[english]infra_menu_options" "Options"
+		"infra_menu_feedback" "Feedback"
+		"[english]infra_menu_feedback" "Feedback"
+		"infra_menu_quit" "Esci"
+		"[english]infra_menu_quit" "Quit"
+
+		"infra_pause_menu_resume" "Riprendi"
+		"[english]infra_pause_menu_resume" "Resume Game"
+		"infra_pause_menu_call_boss" "Chiama il Capo"
+		"[english]infra_pause_menu_call_boss" "Call Boss"
+		"infra_pause_menu_skip_intro" "Salta Introduzione"
+		"[english]infra_pause_menu_skip_intro" "Skip Intro"
+		"infra_pause_menu_restart_from_checkpoint" "Carica l'ultimo salvataggio"
+		"[english]infra_pause_menu_restart_from_checkpoint" "Load Last Save"
+		"infra_pause_menu_load_game" "Carica Partita"
+		"[english]infra_pause_menu_load_game" "Load Game"
+		"infra_pause_menu_save_game" "Salva Partita"
+		"[english]infra_pause_menu_save_game" "Save Game"
+		"infra_pause_menu_quit_to_menu" "Torna al Menù"
+		"[english]infra_pause_menu_quit_to_menu" "Quit to Menu"
+		"infra_pause_menu_quit_to_desktop" "Torna al Desktop"
+		"[english]infra_pause_menu_quit_to_desktop" "Quit to Desktop"
+
+		"infra_menu_autosave" "Ultimo Autosalvataggio"
+		"[english]infra_menu_autosave" "Latest Autosave"
+		"infra_menu_previous_autosave" "Autosalvataggio meno recente"
+		"[english]infra_menu_previous_autosave" "Older Autosave"
+		"infra_menu_empty_autosave" "Slot Autosalvataggio Vuoto"
+		"[english]infra_menu_empty_autosave" "Empty Autosave Slot"
+		"infra_menu_quicksave" "Salvataggio Rapido"
+		"[english]infra_menu_quicksave" "Quicksave"
+		"infra_menu_empty_quicksave" "Slot Salvataggio Rapido Vuoto"
+		"[english]infra_menu_empty_quicksave" "Empty Quicksave Slot"
+		"infra_menu_save_slot" "Salvataggio %d"
+		"[english]infra_menu_save_slot" "Save Slot %d"
+		"infra_menu_save_slot_info_chapter" "%s – Capitolo %d"
+		"[english]infra_menu_save_slot_info_chapter" "%s – Chapter %d"
+		"infra_menu_save_slot_info_chapter_hours" "%s – Cap. %d, %d h"
+		"[english]infra_menu_save_slot_info_chapter_hours" "%s – Ch. %d, %d h"
+		"infra_menu_save_slot_info_chapter_minutes" "%s – Cap. %d, %d min"
+		"[english]infra_menu_save_slot_info_chapter_minutes" "%s – Ch. %d, %d min"
+		"infra_menu_save_slot_info_chapter_hours_minutes" "%s – Cap. %d, %d h %d min"
+		"[english]infra_menu_save_slot_info_chapter_hours_minutes" "%s – Ch. %d, %d h %d min"
+		"infra_menu_save_slot_info_hours" "%s – %d ore giocate"
+		"[english]infra_menu_save_slot_info_hours" "%s – played %d h"
+		"infra_menu_save_slot_info_minutes" "%s – %d minuti giocati"
+		"[english]infra_menu_save_slot_info_minutes" "%s – played %d min"
+		"infra_menu_save_slot_info_hours_minutes" "%s – %d h %d min"
+		"[english]infra_menu_save_slot_info_hours_minutes" "%s – %d h %d min"
+		"infra_menu_empty_save_slot" "Slot Salvataggio %d Vuoto"
+		"[english]infra_menu_empty_save_slot" "Empty Save Slot %d"
+
+		"infra_options_tab_video" "Video"
+		"[english]infra_options_tab_video" "Video"
+		"infra_options_tab_audio" "Audio"
+		"[english]infra_options_tab_audio" "Audio"
+		"infra_options_tab_game" "Gioco"
+		"[english]infra_options_tab_game" "Game"
+		"infra_options_tab_controls" "Controlli"
+		"[english]infra_options_tab_controls" "Controls"
+		"infra_options_video_antialias" "Antialiasing"
+		"[english]infra_options_video_antialias" "Antialiasing"
+		"infra_options_video_multicore" "Rendering Multicore"
+		"[english]infra_options_video_multicore" "Multicore Rendering"
+		"infra_options_video_shader" "Shader"
+		"[english]infra_options_video_shader" "Shaders"
+		"infra_options_video_cpu" "Effetti"
+		"[english]infra_options_video_cpu" "Effects"
+		"infra_options_video_modeltexture" "Modelli & Texture"
+		"[english]infra_options_video_modeltexture" "Models & Textures"
+		"infra_options_video_pagedpoolmemory" "Memoria Disponibile"
+		"[english]infra_options_video_pagedpoolmemory" "Memory Available"
+		"infra_options_video_filtering" "Filtraggio Texture"
+		"[english]infra_options_video_filtering" "Texture Filtering"
+
+		"infra_options_video_borderless" "Finestra Senza Bordi"
+		"[english]infra_options_video_borderless" "Borderless"
+		"infra_options_video_double_buffered" "Doppio Buffer"
+		"[english]infra_options_video_double_buffered" "Double Buffered"
+		"infra_options_video_triple_buffered" "Triplo Buffer"
+		"[english]infra_options_video_triple_buffered" "Triple Buffered"
+		"infra_options_video_2x" "2x"
+		"[english]infra_options_video_2x" "2x"
+		"infra_options_video_4x" "4x"
+		"[english]infra_options_video_4x" "4x"
+		"infra_options_video_8x" "8x"
+		"[english]infra_options_video_8x" "8x"
+		"infra_options_video_16x" "16x"
+		"[english]infra_options_video_16x" "16x"
+		"infra_options_video_4_3" "4:3"
+		"[english]infra_options_video_4_3" "4:3"
+		"infra_options_video_16_9" "16:9"
+		"[english]infra_options_video_16_9" "16:9"
+		"infra_options_video_16_10" "16:10"
+		"[english]infra_options_video_16_10" "16:10"
+
+		"infra_options_audio_master_volume" "Volume Generale"
+		"[english]infra_options_audio_master_volume" "Master Volume"
+		"infra_options_audio_music_volume" "Volume Musica"
+		"[english]infra_options_audio_music_volume" "Music Volume"
+		"infra_options_audio_master_volume_short" "Generale"
+		"[english]infra_options_audio_master_volume_short" "Master"
+		"infra_options_audio_music_volume_short" "Musica"
+		"[english]infra_options_audio_music_volume_short" "Music"
+		"infra_options_audio_sound_quality" "Qualità Audio"
+		"[english]infra_options_audio_sound_quality" "Sound Quality"
+		"infra_options_audio_sound_quality_short" "Qualità"
+		"[english]infra_options_audio_sound_quality_short" "Quality"
+		"infra_options_audio_no_captions" "Sottotitoli Disattivati"
+		"[english]infra_options_audio_no_captions" "No Captions"
+		"infra_options_audio_subtitles" "Sottotitoli"
+		"[english]infra_options_audio_subtitles" "Subtitles"
+		"infra_options_audio_closed_captions" "Sottotitoli Codificati"
+		"[english]infra_options_audio_closed_captions" "Closed Captions"
+		"infra_options_audio_speakers_2_short" "2"
+		"[english]infra_options_audio_speakers_2_short" "2"
+		"infra_options_audio_speakers_4_short" "4"
+		"[english]infra_options_audio_speakers_4_short" "4"
+		"infra_options_audio_speakers_5_short" "5.1"
+		"[english]infra_options_audio_speakers_5_short" "5.1"
+
+		"infra_options_crosshair" "Mirino"
+		"[english]infra_options_crosshair" "Crosshair"
+		"infra_options_use_highlights" "Evidenza Elementi Usabili"
+		"[english]infra_options_use_highlights" "Use Highlights"
+		"infra_options_use_selection_outline" "Usa i Bordi di Selezione"
+		"[english]infra_options_use_selection_outline" "Use Selection Outlines"
+		"infra_options_use_selection_outline_short" "Bordi di Selezione"
+		"[english]infra_options_use_selection_outline_short" "Selection Outlines"
+		"infra_options_film_grain" "Grana della Pellicola"
+		"[english]infra_options_film_grain" "Film Grain"
+		"infra_options_motion_blur" "Sfocatura di Movimento"
+		"[english]infra_options_motion_blur" "Motion Blur"
+		"infra_options_field_of_view" "Campo Visivo"
+		"[english]infra_options_field_of_view" "Field of View"
+		"infra_options_hints" "Messaggi di Aiuto"
+		"[english]infra_options_hints" "Tutorial Messages"
+		"infra_options_hints_short" "Tutorial"
+		"[english]infra_options_hints_short" "Tutorial"
+
+		"infra_options_controls_mouse_sensitivity" "Sensibilità Mouse"
+		"[english]infra_options_controls_mouse_sensitivity" "Mouse Sensitivity"
+		"infra_options_controls_controller_sensitivity" "Sensibilità Controller"
+		"[english]infra_options_controls_controller_sensitivity" "Controller Sensitivity"
+		"infra_options_controls_mouse_raw_input" "Input Mouse Diretto"
+		"[english]infra_options_controls_mouse_raw_input" "Raw Mouse Input"
+		"infra_options_controls_mouse_raw_input_short" "Input Diretto"
+		"[english]infra_options_controls_mouse_raw_input_short" "Raw Input"
+		"infra_options_controls_mouse_invert" "Inverti Mouse"
+		"[english]infra_options_controls_mouse_invert" "Invert Mouse"
+		"infra_options_controls_mouse_invert_xy" "X + Y"
+		"[english]infra_options_controls_mouse_invert_xy" "X + Y"
+		"infra_options_controls_mouse_invert_x" "X"
+		"[english]infra_options_controls_mouse_invert_x" "X"
+		"infra_options_controls_mouse_invert_y" "Y"
+		"[english]infra_options_controls_mouse_invert_y" "Y"
+		"infra_options_controls_controller_invert" "Inverti Visuale Controller"
+		"[english]infra_options_controls_controller_invert" "Invert Controller Look"
+		"infra_options_controls_controller_invert_short" "Inverti Controller"
+		"[english]infra_options_controls_controller_invert_short" "Invert Controller"
+		"infra_options_controls_controller_invert_xy" "X + Y"
+		"[english]infra_options_controls_controller_invert_xy" "X + Y"
+		"infra_options_controls_controller_invert_x" "X"
+		"[english]infra_options_controls_controller_invert_x" "X"
+		"infra_options_controls_controller_invert_y" "Y"
+		"[english]infra_options_controls_controller_invert_y" "Y"
+		"infra_options_controls_reset_defaults" "Reimposta Predefiniti"
+		"[english]infra_options_controls_reset_defaults" "Reset Defaults"
+		"infra_options_controls_move_forward" "Muoviti in Avanti"
+		"[english]infra_options_controls_move_forward" "Move Forward"
+		"infra_options_controls_move_left" "Muoviti a Sinistra"
+		"[english]infra_options_controls_move_left" "Move Left"
+		"infra_options_controls_move_backward" "Muoviti all'Indietro"
+		"[english]infra_options_controls_move_backward" "Move Backward"
+		"infra_options_controls_move_right" "Muoviti a Destra"
+		"[english]infra_options_controls_move_right" "Move Right"
+		"infra_options_controls_jump" "Salta"
+		"[english]infra_options_controls_jump" "Jump"
+		"infra_options_controls_crouch" "Accovacciati"
+		"[english]infra_options_controls_crouch" "Crouch"
+		"infra_options_controls_sprint" "Scatta"
+		"[english]infra_options_controls_sprint" "Sprint"
+		"infra_options_controls_interact" "Interagisci"
+		"[english]infra_options_controls_interact" "Interact"
+		"infra_options_controls_equip_camera" "Equipaggia Fotocamera"
+		"[english]infra_options_controls_equip_camera" "Equip Camera"
+		"infra_options_controls_equip_flashlight" "Equipaggia Torcia"
+		"[english]infra_options_controls_equip_flashlight" "Equip Flashlight"
+		"infra_options_controls_reload" "Cambia Batterie"
+		"[english]infra_options_controls_reload" "Switch Batteries"
+		"infra_options_controls_next_tool" "Prossimo Strumento"
+		"[english]infra_options_controls_next_tool" "Next Tool"
+		"infra_options_controls_previous_tool" "Strumento Precedente"
+		"[english]infra_options_controls_previous_tool" "Previous Tool"
+		"infra_options_controls_use_tool" "Usa Strumento"
+		"[english]infra_options_controls_use_tool" "Use Tool"
+		"infra_options_controls_context_sensitive" "Usa Strumento (Alternativo)"
+		"[english]infra_options_controls_context_sensitive" "Use Tool (Alternative)"
+		"infra_options_controls_zoom" "Ingrandisci"
+		"[english]infra_options_controls_zoom" "Zoom"
+		"infra_options_controls_quick_save" "Salvataggio Rapido"
+		"[english]infra_options_controls_quick_save" "Quick Save"
+		"infra_options_controls_quick_load" "Caricamento Rapido"
+		"[english]infra_options_controls_quick_load" "Quick Load"
+
+		"infra_menu_map_load_failed" "Caricamento livello fallito!"
+		"[english]infra_menu_map_load_failed" "Failed to load the level!"
+		"infra_menu_generic_matchmaking_error" "Errore sessione Matchmaking!"
+		"[english]infra_menu_generic_matchmaking_error" "Matchmaking session error!"
+
+		"infra_menu_incompatible_save" "Mi dispiace, ma questo salvataggio non è più totalmente compatibile con la versione attuale del gioco.
+		
+Vuoi riavviare la partita in corso? Il tuo progresso verrà ripristinato all'inizio del livello."
+		"[english]infra_menu_incompatible_save" "Sorry, but this saved game is no longer fully compatible with the current version of the game.
+
+Would you like to restart the level? Your progress will be restored from the beginning of the level."
+		"infra_menu_incompatible_save_restart_level" "Riavvia Livello"
+		"[english]infra_menu_incompatible_save_restart_level" "Restart Level"
+		"infra_menu_incompatible_save_cancel" "Annulla"
+		"[english]infra_menu_incompatible_save_cancel" "Cancel"
+
+		"infra_menu_playtest_disclaimer" "Ciao! Grazie per aver provato INFRA. Questa è una build in beta e alcuni contenuti sono ancora mancanti o in lavorazione. Alcune voci potrebbero non essere state ancora registrate e, di conseguenza, sono stati attivati i sottotitoli codificati.
+
+Siamo ansiosi di conoscere la tua esperienza generale di gioco ed eventuali bug che potresti incontrare. Puoi inviarci il tuo feedback in qualsiasi momento tramite il menù principale o quello di pausa."
+		"[english]infra_menu_playtest_disclaimer" "Hello! Thanks for testing INFRA. This is a beta build, and some things are still missing or work in progress. Some lines might not be fully voiced yet, so closed captions have been turned on.
+
+We're eager to hear about your general experience and about any bugs that you might find. You can send feedback at any time through the pause menu or the main menu."
+
+		"infra_chapter_1_title" "Capitolo 1"
+		"[english]infra_chapter_1_title" "Chapter 1"
+		"infra_chapter_1_subtitle" "Preparativi"
+		"[english]infra_chapter_1_subtitle" "Preparations"
+		"infra_chapter_1_description" "Fu una lunga giornata in ufficio. Il capo aveva organizzato una riunione la mattina presto. Tutto quello che volevo fare era tornare a casa e farmi una bella dormita. La cosa più strana è che non ricordo nemmeno di essere tornato a casa."
+		"[english]infra_chapter_1_description" "It had been a long day at the office. The boss had scheduled a meeting for early next morning. All I wanted to do is go home and get a good night’s sleep. The strangest thing is that I don’t even recall driving home."
+
+		"infra_chapter_2_title" "Capitolo 2"
+		"[english]infra_chapter_2_title" "Chapter 2"
+		"infra_chapter_2_subtitle" "Un Altro Giorno di Lavoro"
+		"[english]infra_chapter_2_subtitle" "Just Another Day at Work"
+		"infra_chapter_2_description" "Il capo mi aveva assegnato il compito di ispezionare la diga di Hammer Valley ed i suoi dintorni. Sarebbe dovuto essere un lavoro di routine."
+		"[english]infra_chapter_2_description" "The boss had assigned me to survey the Hammer Valley Dam and its surroundings. Should be a routine job."
+
+		"infra_chapter_3_title" "Capitolo 3"
+		"[english]infra_chapter_3_title" "Chapter 3"
+		"infra_chapter_3_subtitle" "Mondo Dimenticato"
+		"[english]infra_chapter_3_subtitle" "Forgotten World"
+		"infra_chapter_3_description" "Terminai di ispezionare la diga di Hammer Valley e mi diressi nei Bergmann Tunnels. Questa è una delle gallerie che riforniscono la città di acqua."
+		"[english]infra_chapter_3_description" "I finished surveying the Hammer Valley Dam and made my way into the Bergmann Tunnels. This is one of the tunnels that the city gets its water from."
+
+		"infra_chapter_4_title" "Capitolo 4"
+		"[english]infra_chapter_4_title" "Chapter 4"
+		"infra_chapter_4_subtitle" "Industria del Passato"
+		"[english]infra_chapter_4_subtitle" "Heavy Industry of the Past"
+		"infra_chapter_4_description_furnace_beginning" "La vecchia fabbrica di acciaio era vicina. Avevo già voglia di lasciarmi dietro questi tunnel."
+		"[english]infra_chapter_4_description_furnace_beginning" "The old steel factory was nearby. I was already itching to leave these tunnels behind me."
+		"infra_chapter_4_description_furnace_inside" "Mi addentrai nella vecchia fonderia. Questo posto non era proprio sulla mia strada, ma dovevo attraversarlo per arrivare a destinazione."
+		"[english]infra_chapter_4_description_furnace_inside" "I had made my way into the old steel factory. This place wasn't exactly on my route, but I had to make my way through it to get where I needed to go."
+
+		"infra_chapter_5_title" "Capitolo 5"
+		"[english]infra_chapter_5_title" "Chapter 5"
+		"infra_chapter_5_subtitle" "Acqua Fresca"
+		"[english]infra_chapter_5_subtitle" "Fresh Water"
+		"infra_chapter_5_description_watertreatment" "Il capo mi informò che il crollo nei tunnel di Bergmann stava causando problemi in tutta la città. Con la fabbrica di acciacio alle spalle, iniziai ad andare verso l'impianto di trattamento delle acque. Forse potevano fornirci qualche dato riguardo questa situazione."
+		"[english]infra_chapter_5_description_watertreatment" "The boss had let me know that the Bergmann tunnel collapse was causing issues all around the city. With the steel factory behind me, I started making my towards the watertreatment plant. Maybe they could provide some insight into the situation."
+		"infra_chapter_5_description_watertreatment_no_phone_call" "Con la fabbrica di acciaio alle spalle, proseguii."
+		"[english]infra_chapter_5_description_watertreatment_no_phone_call" "With the steel factory behind me, I started making my forwards."
+		"infra_chapter_5_description_sewer" "L'impianto di trattamento delle acque rivelò delle informazioni preoccupanti. La diga Two Gorges poteva essere in pericolo. Il capo mi indicò di tornare in ufficio. Mi disse che c'era una stazione della metro a poca distanza e quella serebbe stata la mia migliore scelta."
+		"[english]infra_chapter_5_description_sewer" "The watertreatment plant revealed some worrying news. The Two Gorges Dam could be in danger. The boss told me to make my way back to the office. He told me that there was a metro station some distance away that would be my best bet."
+		"infra_chapter_5_description_sewer_no_phone_call" "Mi lasciai l'impianto di trattamento delle acque alle spalle ed iniziai a dirigermi verso il centro città."
+		"[english]infra_chapter_5_description_sewer_no_phone_call" "I had left the watertreatment plant behind me and started moving towards the city centre."
+
+		"infra_chapter_6_title" "Capitolo 6"
+		"[english]infra_chapter_6_title" "Chapter 6"
+		"infra_chapter_6_subtitle" "Trasporto Pubblico"
+		"[english]infra_chapter_6_subtitle" "Public Transport"
+		"infra_chapter_6_description_sewer" "Non riesco a respitare. Sento che i miei occhi sono chiusi ma è come se non avessi la forza per aprirli."
+		"[english]infra_chapter_6_description_sewer" "I can’t breathe. I can feel that my eyes are closed, but it’s as if I was lacking the strength to open them."
+		"infra_chapter_6_description_metro" "Dopo la mia esperienza quasi mortale, iniziai a dirigermi verso l'uscita delle fogne in cui ero intrappolato. Sarei riuscito a tornare in ufficio?"
+		"[english]infra_chapter_6_description_metro" "After my near-death experience, I started making my way out of the sewers that I was trapped in. Maybe I’d get back to the office after all?"
+		"infra_chapter_6_description_metroride" ""
+		"[english]infra_chapter_6_description_metroride" ""
+		"infra_chapter_6_description_waterplant" "Il tunnel della metropolitana era crollato sotto di me costringendomi a rientrare nei tunnel della manutenzione. Sarebbe stata una lunga giornata."
+		"[english]infra_chapter_6_description_waterplant" "The metro tunnel had collapsed underneath me, and forced me back into maintenance tunnels. This was going to be a long day."
+		"infra_chapter_6_description_central" "Riuscii ad arrivare alla stazione centrale della metropolitana ma, con mio grande sgomento, anche questa era stata chiusa. Dovevo trovare un'altra via di uscita."
+		"[english]infra_chapter_6_description_central" "I had made my way to the central metro station, but to my dismay, it had been closed as well. I had to find another way out of there."
+
+		"infra_chapter_7_title" "Capitolo 7"
+		"[english]infra_chapter_7_title" "Chapter 7"
+		"infra_chapter_7_subtitle" "Lavoro Straordinario"
+		"[english]infra_chapter_7_subtitle" "Working Overtime"
+		"infra_chapter_7_description_servicetunnel" "Entrai nei tunnel di servizio sotto la stazione centrale della metro. Ebbi un presentimento che questa sarebbe stata una lunga deviazione."
+		"[english]infra_chapter_7_description_servicetunnel" "I made my way into one of the service tunnels under the central metro station. I had a feeling that this was going to be a long detour."
+
+		"infra_chapter_8_title" "Capitolo 8"
+		"[english]infra_chapter_8_title" "Chapter 8"
+		"infra_chapter_8_subtitle" "In Ritardo per una Riunione"
+		"[english]infra_chapter_8_subtitle" "Late for a Meeting"
+
+		"infra_chapter_9_title" "Capitolo 9"
+		"[english]infra_chapter_9_title" "Chapter 9"
+		"infra_chapter_9_subtitle" "Salvare una città"
+		"[english]infra_chapter_9_subtitle" "To Save a City"
+
+		"infra_chapter_10_title" "Capitolo 10"
+		"[english]infra_chapter_10_title" "Chapter 10"
+		"infra_chapter_10_subtitle" "Redenzione"
+		"[english]infra_chapter_10_subtitle" "Redemption"
+
+		"infra_chapter_11_title" "Capitolo 11"
+		"[english]infra_chapter_11_title" "Chapter 11"
+		"infra_chapter_11_subtitle" "Epilogo"
+		"[english]infra_chapter_11_subtitle" "Epilogue"
+
+		"infra_hint_intro_change_slide" "Cambia Diapositiva"
+		"[english]infra_hint_intro_change_slide" "Change Slide"
+		"infra_hint_interact" "Interagisci"
+		"[english]infra_hint_interact" "Interact"
+		"infra_hint_use_keycard_reader" "Puoi sbloccare questa porta utilizzando il lettore di schede a sinistra"
+		"[english]infra_hint_use_keycard_reader" "You can unlock this door by using the keycard reader on the left"
+		"infra_hint_reload_holster_other" "Riponi la tua torcia per ricaricare la fotocamera o vice versa"
+		"[english]infra_hint_reload_holster_other" "Holster your flashlight to reload the camera or vice versa"
+		"infra_hint_reload_holster_flashlight" "Riponi la tua torcia per ricaricare la fotocamera"
+		"[english]infra_hint_reload_holster_flashlight" "Holster your flashlight to reload the camera"
+		"infra_hint_reload_camera" "Ricarica Fotocamera"
+		"[english]infra_hint_reload_camera" "Reload Camera"
+		"infra_hint_reload_flashlight" "Ricarica Torcia"
+		"[english]infra_hint_reload_flashlight" "Reload Flashlight"
+		"infra_hint_camera_successful_picture" "Viene riprodotto un suono per indicare una fotografia corretta"
+		"[english]infra_hint_camera_successful_picture" "A sound plays to indicate a successful picture"
+		"infra_hint_camera_focus_indicator" "L'indicatore della messa a fuoco sullo schemo della fotocamera cambia quando viene inquadrato un elemento fotografabile"
+		"[english]infra_hint_camera_focus_indicator" "The focus indicator on the camera screen changes when looking at something that can be photographed"
+		"infra_hint_equip_camera" "Equipaggia Fotocamera"
+		"[english]infra_hint_equip_camera" "Equip Camera"
+		"infra_hint_equip_flashlight" "Equipaggia Torcia"
+		"[english]infra_hint_equip_flashlight" "Equip Flashlight"
+		"infra_hint_take_photo" "Fotografa"
+		"[english]infra_hint_take_photo" "Photograph"
+		"infra_hint_climb" "Arrampicati quando Cammini Verso una Sporgenza"
+		"[english]infra_hint_climb" "Climb when Walking Towards a Ledge"
+		"infra_hint_crouch" "Accovacciati"
+		"[english]infra_hint_crouch" "Crouch"
+		"infra_hint_unzoom" "Riduci"
+		"[english]infra_hint_unzoom" "Unzoom"
+		"infra_hint_zoom" "Ingrandisci"
+		"[english]infra_hint_zoom" "Zoom"
+		"infra_hint_jump" "Salta"
+		"[english]infra_hint_jump" "Jump"
+		"infra_hint_throw_held_object" "Lancia"
+		"[english]infra_hint_throw_held_object" "Throw"
+		"infra_hint_crane_horizontal_movement" "Muovi"
+		"[english]infra_hint_crane_horizontal_movement" "Move"
+		"infra_hint_crane_vertical_movement" "Alza/Abbassa"
+		"[english]infra_hint_crane_vertical_movement" "Raise/Lower"
+
+		"infra_key_not_bound" "[NON ASSEGNATO]"
+		"[english]infra_key_not_bound" "[NOT BOUND]"
+
+		// computer
+
+		"infra_computer_exit" "ESCI"
+		"[english]infra_computer_exit" "EXIT"
+
+		// email computer
+
+		"infra_treatment_email_date" "15 Agosto"
+		"[english]infra_treatment_email_date" "Aug 15"
+
+		"infra_treatment_email_001_subject" "50% Discount!"
+		"[english]infra_treatment_email_001_subject" "50% di Sconto!"
+
+		"infra_treatment_email_002_subject" "Impianto Trattamento Acque Pine Fell!"
+		"[english]infra_treatment_email_002_subject" "Pine Fell Water Plant!"
+		"infra_treatment_email_002_content_1" "Quei due fannulluni alla stazione di pompaggio acque Pine Fell non hanno ancora fatto il loro lavoro. Non ho idea di cosa stia facendo l'altro ragazzo, ma il secondo, Marko, trascorre la giornata a giocare a giochi stupidi. L'acqua all'interno delle tubazioni rosse ha un grave problema di contaminazione che dev'essere risolto. Non so da cosa dipenda, ma questi ragazzi devono agire e risolvere il problema. Dobbiamo continuare a fornire acqua proveniente da altre stazioni di pompaggio in zona finchè il problema non sarà risolto."
+		"[english]infra_treatment_email_002_content_1" "Those two slackers at the Pine Fell Water Plant still haven't done their job. I have no idea what the other guy is up to, but the other one, Marko, is just playing some dumb games all day. The red pipes have a serious water contamination problem they need to fix. I don't know what caused it, but these guys really need to get their act together and fix the problem already. We have to keep delivering water from other pumping stations to that area until the problem is dealt with."
+		"infra_treatment_email_002_content_2" "Sapevo che alla fine quei due avrebbero risolto i problemi alla stazione di pompaggio acque Pine Fell! Marko e... dannazione, non ricordo ancora il nome dell'altro tizio... comunque sia, hanno risolto completamente quel problema di contaminazione dell'acque e ora l'impianto funziona nuovamente a pieno regime. Devo dire che sono molto orgoglioso di avere questi due bravi lavoratori nel team."
+		"[english]infra_treatment_email_002_content_2" "I knew those two would eventually fix the problems at the Pine Fell Water Plant! Marko and... damn it, still don't remember that other guy's name... anyway, they totally fixed that water contamination problem and now the pumping station is running at full capacity again. I have to say I'm very proud of having these two fine workers on the team."
+		"infra_treatment_email_002_content_3" "Che problemi ha la stazione di pompaggio acque Pine Fell? Ora ha totalmente smesso di pompare acqua! Le lamentele continuano ad accumularsi e Marko non risponde alle mie telefonate. Che diavolo stanno facendo lì?! Ho dovuto mandare dei ragazzi a controllarli. Spero che quei due stiano lavorando duramente o altrimenti sono licenziati!"
+		"[english]infra_treatment_email_002_content_3" "What's the deal with the Pine Fell Water Plant? It's completely stopped pumping water now! The complaints just keep piling up and Marko is not answering my phone calls. What the hell are they doing out there?! I had to send some guys to go check on them. Those two better be working their asses off over there or they're fucking fired!"
+		"infra_treatment_email_002_content_4" "Qualcosa è andato storto alla stazione di pompaggio acque Pine Fell. Sembra che stia pompando acqua contaminata! Non so cosa stia succedendo lì, ma questa è una catastrofe! Abbiamo ricevuto numerose lamentele riguardo lo strano sapore dell'acqua e alcune persone si stanno effettivamente sentendo male. Ho mandato due dei nostri a dare un'occhiata alla situazione."
+		"[english]infra_treatment_email_002_content_4" "Something's gone wrong at the Pine Fell Water Plant. It seems to be pumping contaminated water! I don't know what's going on out there, but this is a catastrophe! We've received numerous complaints about the strange taste in the water and some people are actually getting sick. I sent two of our guys to go take a look at the situation."
+
+		"infra_treatment_email_003_subject" "Il nuovo dispositivo di raccolta sedimenti 02 è rotto!"
+		"[english]infra_treatment_email_003_subject" "New grit classifier 02 is broken!"
+		"infra_treatment_email_003_content" "Il nuovo dispositivo di raccolta sedimenti 02 si è appena guastato ed il secondo chiarificatore non è stato sottoposto a manutenzione da secoli. Ora l'acqua non è pulita come dovrebbe essere! I ragazzi al laboratorio hanno testato i livelli di contaminazione dell'acqua di recente? Personalmente non ho notizie da parte loro da settimane. Sono sicuro che ormai i risultati siano scesi ben al di sotto dei livelli accettabili. perché nessuno fa più il proprio lavoro?!"
+		"[english]infra_treatment_email_003_content" "The new grit classifier 02 just broke and the secondary clarifier hasn't been maintained in ages. Now the water isn't as clean as it should be! Have the lab guys even tested the water contamination levels lately? I personally haven't heard anything from them in weeks. I'm sure the results have dropped well below acceptable levels by now. Why is no one doing their job anymore?!"
+
+		"infra_treatment_email_004_subject" "Quei dannati tecnici del laboratorio sono fuori controllo"
+		"[english]infra_treatment_email_004_subject" "Damn lab guys are out of control"
+		"infra_treatment_email_004_content" "Birra, birra e ancora birra! Questo è tutto ciò a cui i tizi al laboratorio riescono a pensare. Seriamente, non ricordo nemmeno l'ultima volta che li ho visti sobri. La Osmo Olut è ovunque: cartelloni pubblicitari, mongolfiere, mail spam, per non parlare del birrificio qui vicino. E ora ci offrono anche birra gratis per farci stare zitti! Non riesco più a sopportarlo, dobbiamo fare assolutamente qualcosa."
+		"[english]infra_treatment_email_004_content" "Beer, beer and beer! That's all those guys at the lab ever think about. Seriously, I don't even remember the last time I saw them sober. Osmo Olut is everywhere now: billboards, hot air balloons, spam mail, not to mention that frigging brewery next door. And now they're even offering us free beer to keep us quiet! I just can't stand this anymore, we really need to do something about this."
+
+		// email computer waterplant
+
+		"infra_waterplant_email_001_subject" "Impianto di trattamento acque Pitheath"
+		"[english]infra_waterplant_email_001_subject" "Pitheath Water Treatment Plant"
+
+		"infra_waterplant_email_001_content_1" "Ho provato a chiamarti tutto il giorno. Devo parlarti di una cosa strana avvenuta all'impianto di trattamento delle acque Pitheath. Qualcuno è entrato mentre tutti erano assenti e ha sistemato praticamente tutto! Non so chi fosse questo tizio, ma voglio che venga a lavorare qui."
+		"[english]infra_waterplant_email_001_content_1" "I've been trying to call you all day. I need to tell you about something weird that happened at the Pitheath Water Treatment Plant. Some guy came in while everyone else was away and fixed pretty much everything! I don't know who the guy was, but I really want him to work here."
+
+		"infra_waterplant_email_001_content_2" "Non hai risposto alla mia telefonata, quindi spero tu legga questa mail il prima possibile! Ho bisogno che tu venga all'impianto di trattamento delle acque Pitheath. Sono appena stato lì e sembra che qualcuno sia entrato senza permesso. Ha modificato alcune impostazioni, ma non sono sicuro che ci sia d'aiuto. Anche le mie chiavi sono sparite. Sono abbastanza sicuro che le abbia rubate! Vieni qui il prima possibile e porta con te le chiavi. E questa volta prendi quelle giuste!"
+		"[english]infra_waterplant_email_001_content_2" "You didn't answer my call, so I hope you read this as soon as possible! I need you to come to the Pitheath Water Treatment Plant. I just came from there and it seems that someone had been there without permission. He messed with some of the settings but I'm not sure it did us any good. My keys have also disappeared. I'm pretty sure he stole them! Come here as soon as possible and bring your keys with you. And take the right keys this time!"
+
+		"infra_waterplant_email_002_subject" "Problema dei tunnel di Bergmann"
+		"[english]infra_waterplant_email_002_subject" "Bergmann water tunnel problem"
+
+		"infra_waterplant_email_002_content" "Il flusso d'acqua nei tunnel di Bergmann sembra essersi quasi fermato. Potremmo aver bisogno di iniziare a prelevare acqua dalla vasca di riserva, ma dobbiamo cambiare delle impostazioni per farlo. Non sono sicuro di cosa sia successo in quelle gallerie ma so che dobbiamo fare qualcosa perché nessuno lavora più lì. Ricordi quando Robin ci lavorava ancora? Mi manca un po', rompeva cose e scherzava. Non era molto sicuro ma almeno c'era un po' di azione. È tutto così fiacco ora. Comunque sia, non riesco neanche a contattare l'impianto di trattamento acque Pitheath. Stanno di nuovo bevendo o cosa? Dovrebbero essere in grado di capire quale sia la situazione nei tunnel."
+		"[english]infra_waterplant_email_002_content" "The Bergmann water tunnel flow seems to have almost stopped. We might need to start taking water from the reserve pool, but we need to change the settings to get that to work. I'm not sure what happened in the tunnel, but I know we have to do something because no one works in the Bergmann tunnels anymore. Remember when Robin was still working there? I kind of miss him, breaking things and goofing around. It wasn't very safe but at least there was some action. It's so mundane now. But anyway, I can't even get a connection to the Pitheath Water Treatment Plant. Are they drinking again there or what? They should be able to see what's the situation in the tunnels."
+
+		"infra_waterplant_email_004_subject" "Vasca di Flocculazione"
+		"[english]infra_waterplant_email_004_subject" "Flocculation pool"
+
+		"infra_waterplant_email_004_content" "Non so che idee abbia il capo, ma non credo sia una buona idea provare a nascondere il nostro piccolo problema con l'acqua. La grande vasca di flocculazione ha la sua parte di problemi e i nostri sistemi stanno facendo le bizze, ma il capo continua ad urlarci contro chiedendoci di mantenere la normalità. È da un po' che non vedo il capo qui. Invia solo email."
+		"[english]infra_waterplant_email_004_content" "I don't know what the boss is thinking, but I don't think it's a good idea to try hiding our little water problem here. That large flocculation pool has its share of problems and our system is acting up, but the boss keeps yelling at us to keep everything normal. I haven't seen the boss here for a while. He only sends emails."
+
+		// tunnel2 computer
+
+		"infra_tunnel2_red_pipe_1" "TUBO ROSSO"
+		"[english]infra_tunnel2_red_pipe_1" "RED PIPE"
+		"infra_tunnel2_red_pipe_2" "TUBO ROSSO 2"
+		"[english]infra_tunnel2_red_pipe_2" "RED PIPE 2"
+		"infra_tunnel2_blue_pipe_1" "TUBO BLU"
+		"[english]infra_tunnel2_blue_pipe_1" "BLUE PIPE"
+		"infra_tunnel2_blue_pipe_2" "TUBO BLU 2"
+		"[english]infra_tunnel2_blue_pipe_2" "BLUE PIPE 2"
+		"infra_tunnel2_chlorination" "Clorazione"
+		"[english]infra_tunnel2_chlorination" "Chlorination"
+		"infra_tunnel2_Pool1" "Vasca 1"
+		"[english]infra_tunnel2_Pool1" "Pool 1"
+		"infra_tunnel2_Pool2" "Vasca 2"
+		"[english]infra_tunnel2_Pool2" "Pool 2"
+		"infra_tunnel2_Pool3" "Vasca 3"
+		"[english]infra_tunnel2_Pool3" "Pool 3"
+		"infra_tunnel2_Pool4" "Vasca 4"
+		"[english]infra_tunnel2_Pool4" "Pool 4"
+		"infra_tunnel2_fresh_water_pool" "Vasca acqua pulita"
+		"[english]infra_tunnel2_fresh_water_pool" "Fresh water pool"
+		"infra_tunnel2_line_1" "LINEA 1"
+		"[english]infra_tunnel2_line_1" "LINE 1"
+		"infra_tunnel2_line_2" "LINEA 2"
+		"[english]infra_tunnel2_line_2" "LINE 2"
+
+		"infra_tunnel2_button" "APRI/CHIUDI"
+		"[english]infra_tunnel2_button" "OPEN/CLOSE"
+
+		// ATM
+
+		"infra_ATM_welcome" "BENVENUTO, Per favore inserisci una carta"
+		"[english]infra_ATM_welcome" "WELCOME, Please insert a card"
+		"infra_ATM_pin" "Inserisci il tuo codice PIN"
+		"[english]infra_ATM_pin" "Insert your pincode"
+		"infra_ATM_select" "Scegli importo da prelevare"
+		"[english]infra_ATM_select" "Select amount to withdraw"
+		"infra_ATM_cancel" "ANNULLA"
+		"[english]infra_ATM_cancel" "CANCEL"
+		"infra_ATM_take_card" "Ritira la tua carta"
+		"[english]infra_ATM_take_card" "Take your card"
+		"infra_ATM_take_money" "Ritira il denaro"
+		"[english]infra_ATM_take_money" "Take money"
+		"infra_ATM_incorrect" "PIN errato"
+		"[english]infra_ATM_incorrect" "Incorrect pin"
+		"infra_ATM_correct" "PIN corretto"
+		"[english]infra_ATM_correct" "Correct pin"
+		"infra_ATM_daily" "Limite Prelievo giornaliero raggiunto o saldo insufficiente"
+		"[english]infra_ATM_daily" "Daily Withdrawal limit is reached, or account is empty"
+
+		// grit classifier computer
+
+		"infra_classifier_help" "GUIDA"
+		"[english]infra_classifier_help" "HELP"
+		"infra_classifier_general" "GENERALE"
+		"[english]infra_classifier_general" "GENERAL"
+		"infra_classifier_interface" "INTERFACCIA"
+		"[english]infra_classifier_interface" "INTERFACE"
+		"infra_classifier_controls" "CONTROLLI"
+		"[english]infra_classifier_controls" "CONTROLS"
+		"infra_classifier_troubleshooting" "RISOLUZIONE PROBLEMI"
+		"[english]infra_classifier_troubleshooting" "TROUBLESHOOTING"
+		"infra_classifier_back" "INDIETRO"
+		"[english]infra_classifier_back" "BACK"
+
+		"infra_classifier_reinstall" "REINSTALLA"
+		"[english]infra_classifier_reinstall" "REINSTALL"
+		"infra_classifier_repair" "RIPARA"
+		"[english]infra_classifier_repair" "REPAIR"
+		"infra_classifier_uninstall" "DISINSTALLA"
+		"[english]infra_classifier_uninstall" "UNINSTALL"
+		"infra_classifier_cancel" "ANNULLA"
+		"[english]infra_classifier_cancel" "CANCEL"
+
+		"infra_classifier_repaired" "Riparazione del sistema completata con successo!"
+		"[english]infra_classifier_repaired" "System repair completed successfully!"
+		"infra_classifier_ok" "OK"
+		"[english]infra_classifier_ok" "OK"
+
+		// isle3 bridge computer
+
+		"infra_isle3_open_bridge" "Alza ponte"
+		"[english]infra_isle3_open_bridge" "Open bridge"
+		"infra_isle3_stop_bridge" "Ferma ponte"
+		"[english]infra_isle3_stop_bridge" "Stop bridge"
+		"infra_isle3_close_bridge" "Abbassa ponte"
+		"[english]infra_isle3_close_bridge" "Close bridge"
+		"infra_isle3_manual_auto" "Manuale/Automatico"
+		"[english]infra_isle3_manual_auto" "Manual/Auto"
+		"infra_isle3_lights_bypass" "Bypassa luci"
+		"[english]infra_isle3_lights_bypass" "Lights bypass"
+		"infra_isle3_bridge_gates" "Cancelli ponte"
+		"[english]infra_isle3_bridge_gates" "Bridge gates"
+		"infra_isle3_dont_press" "Non premere"
+		"[english]infra_isle3_dont_press" "Don't press"
+		"infra_isle3_remote_local" "Remoto/Locale"
+		"[english]infra_isle3_remote_local" "Remote/Local"
+		"infra_isle3_siren" "Sirena"
+		"[english]infra_isle3_siren" "Siren"
+		"infra_isle3_flood_lights" "Luci allagamento"
+		"[english]infra_isle3_flood_lights" "Flood lights"
+		"infra_isle3_reset_system" "Resetta sistema"
+		"[english]infra_isle3_reset_system" "Reset system"
+
+		"infra_isle3_denied" "Accesso negato!"
+		"[english]infra_isle3_denied" "Access denied!"
+		"infra_isle3_error" "Errore!"
+		"[english]infra_isle3_error" "Error!"
+	
+		"infra_isle3_manual" "Manuale"
+		"[english]infra_isle3_manual" "Manual"
+		"infra_isle3_auto" "Automatico"
+		"[english]infra_isle3_auto" "Auto"
+		"infra_isle3_local" "Locale"
+		"[english]infra_isle3_local" "Local"
+		"infra_isle3_remote" "Remoto"
+		"[english]infra_isle3_remote" "Remote"
+		"infra_isle3_open" "Aperti"
+		"[english]infra_isle3_open" "Open"
+		"infra_isle3_closed" "Chiusi"
+		"[english]infra_isle3_closed" "Closed"
+		"infra_isle3_on" "On"
+		"[english]infra_isle3_on" "On"
+		"infra_isle3_off" "Off"
+		"[english]infra_isle3_off" "Off"
+
+		"infra_isle3_drawbridge_closed" "Ponte levatoio: Abbassato"
+		"[english]infra_isle3_drawbridge_closed" "Drawbridge: Closed"
+		"infra_isle3_drawbridge_open" "Ponte levatoio: Alzato"
+		"[english]infra_isle3_drawbridge_open" "Drawbridge: Open"
+
+		"infra_isle3_red2" "Rosso 2"
+		"[english]infra_isle3_red2" "Red 2"
+		"infra_isle3_green2" "Verda 2"
+		"[english]infra_isle3_green2" "Green 2"
+		"infra_isle3_green1" "Verde 1"
+		"[english]infra_isle3_green1" "Green 1"
+		"infra_isle3_blue" "Blu"
+		"[english]infra_isle3_blue" "Blue"
+		"infra_isle3_cancel" "Annulla"
+		"[english]infra_isle3_cancel" "Cancel"
+
+		// metro computer
+
+		"infra_metro_alarms" "ALLARMI"
+		"[english]infra_metro_alarms" "ALARMS"
+		"infra_metro_doors" "PORTE"
+		"[english]infra_metro_doors" "DOORS"
+		"infra_metro_sensors" "SENSORI"
+		"[english]infra_metro_sensors" "SENSORS"
+		"infra_metro_logfile" "REGISTRO"
+		"[english]infra_metro_logfile" "LOGFILE"
+		"infra_metro_poison" "VELENO"
+		"[english]infra_metro_poison" "POISON"
+
+		// central waterplant computer
+
+		"infra_waterplant_warning" "ATTENZIONE:"
+		"[english]infra_waterplant_warning" "WARNING:"
+		"infra_waterplant_contaminated" "Acqua contaminata!"
+		"[english]infra_waterplant_contaminated" "Contaminated water!"
+		"infra_waterplant_flow_stopped" "Flusso Idrico Fermo!"
+		"[english]infra_waterplant_flow_stopped" "Water Flow Stopped!"
+		"infra_waterplant_low_ph" "Ph Basso!"		
+		"[english]infra_waterplant_low_ph" "Low Ph!"		
+		
+
+		// office blackout tv 
+		// (beware of the length of blackout_ticker)
+
+		"infra_blackout_header1" "Gestione Emergenza"
+		"[english]infra_blackout_header1" "Emergency Management"
+		"infra_blackout_header2" "Stalburg"
+		"[english]infra_blackout_header2" "Stalburg"
+		"infra_blackout_blinking1" "EMERGENZA INONDAZIONE"
+		"[english]infra_blackout_blinking1" "FLOOD EMERGENCY ALERT"
+		"infra_blackout_blinking2" "PROCLAMATA PER QUESTA REGIONE"
+		"[english]infra_blackout_blinking2" "ISSUED FOR THIS REGION"
+		"infra_blackout_blinking3" "EVACUAZIONE FORTEMENTE CONSIGLIATA"
+		"[english]infra_blackout_blinking3" "EVACUATION STRONGLY ADVISED"
+
+		"infra_blackout_ticker" "LIVELLO ACQUA IN AUMENTO       TUTTE LE CORSE DELLA METRO CANCELLATE       ESPLOSIONI IN PIAZZA WALTER        BLACKOUT IN TUTTA STALBURG"
+		"[english]infra_blackout_ticker" "RISING FLOODS              ALL METRO TRAFFIC CANCELLED              EXPLOSIONS AT WALTER SQUARE              BLACKOUTS ALL OVER STALBURG"
+
+		// ending tv
+		// (same on this ticker's lenght too)
+
+		"infra_endingtv_header" "Fine delle Trasmissioni"
+		"[english]infra_endingtv_header" "End of Broadcast"
+		"infra_endingtv_body1" "La programmazione odierna è terminata, ma
+torneremo in mattinata."
+		"[english]infra_endingtv_body1" "The programming for today has ended, but we'll
+return in the morning."
+		"infra_endingtv_body2" "06.30    Buongiorno Stalburg"
+		"[english]infra_endingtv_body2" "06.30    Good Morning Stalburg"
+		"infra_endingtv_body3" "07.00    Notiziaro Mattutino"
+		"[english]infra_endingtv_body3" "07.00    Morning News"
+		"infra_endingtv_body4" "07.10    Cucina con Ramsay Bolton"
+		"[english]infra_endingtv_body4" "07.10    Cooking with Ramsay Bolton"
+		"infra_endingtv_body5" "08.00    TV Shopping"
+		"[english]infra_endingtv_body5" "08.00    Shopping TV"
+		
+		"infra_endingtv_ticker" "RITARDI NELLA RICOSTRUZIONE DELLA DIGA TWO GORGES            TUNNEL BERGMANN IN RIPARAZIONE            OSMO OLUT COMPRA TORRE DI WALTER"
+		"[english]infra_endingtv_ticker" "REBUILD OF TWO GORGES DAM DELAYED                      BERGMANN TUNNELS BEING REPAIRED                      OSMO OLUT BUYS WALTER TOWER"
+		
+
+		//PART3
+
+		// email computer endings
+
+		"infra_ending_email_date" "4 Gennaio"
+		"[english]infra_ending_email_date" "Jan 4"
+
+		"infra_ending_email_001_subject" "Sono io, Rob!"
+		"[english]infra_ending_email_001_subject" "It's me, Rob!"
+
+// -----------------------------------------------------------------
+
+		"infra_ending_email_001_content_1" "Ciao Mark!
+
+Sono io, Rob! Spero tu abbia ricevuto il mio regato. È fantastica, vero? L'ho fatta con Robin! È veramente bravo a costruire oggetti, ma di solito c'è qualcosa che non va con esse. Ma ora ci sono io ad aiutarlo! Non posso crederci di non averlo fatto prima. È così bello lavorare insieme e posso tenerlo d'occhio in modo che non rompa nulla! Creeremo la nostra azienda! Non siamo ancora sicuri di come chiamarla. Forse Rob-In Costruzioni e Riparazioni o qualcosa di simile. Comunque sia, ti dobbiamo molto! Puoi chiederci di riparare qualsiasi cosa gratuitamente! Spero che ci rivedremo presto!
+
+Rob"
+		"[english]infra_ending_email_001_content_1" "Hi Mark!
+
+It's me, Rob! I hope that you got my gift. It's wonderful, isn't it? I made it with Robin! He's so good at making things, but usually there's always something wrong with them. But now I'm helping him! I can't believe that we didn't do this before. It's so good to work together and I can keep an eye on him so that he doesn't break anything! We're going to set up our own company! We're still not sure how we should name it. Maybe Rob-in build and repair or something like that. But anyway, we owe you so much! You can ask us to repair anything you want for free! I hope we're going to meet again soon!
+
+Rob"
+
+// ----------------------------------------------------------------
+
+		"infra_ending_email_001_content_2" "Ciao Mark,
+
+Sono io, Rob. Hai sentito cosa è successo a Robin? C'è stato un piccolo incidente. O, in realtà, uno grande. Robin è nei guai e sono preoccupato per lui. Ha quasi ucciso due persone. Non ci posso credere. Ora probabilmente finirà in prigione e questo non va bene per niente. Non so cosa fare. Conosci qualcuno che ci potrebbe aiutare? Pensavo di assumere l'avvocato Samuel Godman, ma ha tariffe troppo alte per me! Per favore, aiutaci. Forse ingaggia quell'avvocato o qualcosa del genere. Ti pagherò in seguito. Te lo prometto!
+
+Rob"
+		"[english]infra_ending_email_001_content_2" "Hi Mark,
+
+It's me, Rob. Did you hear what happened to Robin? There was a small accident. Or actually a big one. Robin is in big trouble now and I'm worried about him. He almost killed two people. I can't believe it. Now he's probably going to prison and that's not good at all. I don't know what to do. Do you know anyone who could help us? I was going to hire that lawyer Samuel Godman, but he's too expensive for me! Please help us. Maybe hire that lawyer or something. I'm going to pay you later. I promise!
+
+Rob"
+
+// ---------------------------------------------------------------
+
+		"infra_ending_email_002_subject" "Solo qualcosa che volevo dirti"
+		"[english]infra_ending_email_002_subject" "Just something I wanted to say"
+
+		"infra_ending_email_002_content_1" "Il capo mi ha detto che hai ascoltato la mia conversazione con Amit. Ti chiedo scusa per ciò che ho detto sul tuo conto. Potresti essere un bravo ragazzo se solo smettessi di bere quel veleno. Smetti di bere quella merda e fatti curare adeguatamente! Sei meglio di così! Tutti qui sono preoccupati per te. Steve vuole incontrarti sabato prossimo (7.1.). Incontralo al bar Osmo Hill e forse puoi risolvere questo problema. Non so perché voglia incontrarti lì. Io avrei scelto qualche comunità di aiuto per alcolisti. Incontralo e riprenditi!"
+		"[english]infra_ending_email_002_content_1" "Boss told me that you heard that discussion I had with Amit. I'm sorry what I said about you. You can be a good guy, if you'd just stop drinking that poison. Stop drinking that shit and get proper treatment! You are better than this! Everyone here is worried about you. Steve wants meet you next Saturday (7.1.). Meet him at Osmo Hill Bar and maybe you can sort this out. I have no idea why he wants meet there. I would've chosen some alcohol addiction treatment center. Go meet him and get better!"
+
+		"infra_ending_email_002_content_2" "Hey! Volevo solo ringraziarti riguardo la discussione che abbiamo avuto. Sono ancora un po' confusa riguardo ciò che è successo. Scusa se me ne sono andata così all'improvviso. Avevo solo bisogno di tempo per processare ciò che abbiamo discusso. Mi hai aiutato a realizzare che ho dei problemi importanti. Devo parlarne con altri.
+
+P.S. Ancora non mi piace che tu beva quella birra velenosa! Smettila!!"
+		"[english]infra_ending_email_002_content_2" "Hey! I just wanted to thank you about that discussion we had. I'm still a little confused about what happened. I'm sorry that I left so suddenly. I just needed some time to process all that we talked about. You made me realize that I have some big problems. I have to talk to others about that.
+
+P.S. I still don't like that you drink that poisonous beer! Stop that!!"
+
+		"infra_ending_email_002_content_3" "Mark,
+
+Ho saputo che ora vivi in Finlandia. So che non è andato tutto come previsto, ma almeno ci hai provato. Volevo solo dirti che mi dispiace per quello che ho detto sul tuo conto. Comunque sia, abbiamo iniziato ad ispezionare questo casino come ha detto Steve. Probabilmente sarà un progetto lungo e noioso. Speriamo che tu possa unirti a noi per aiutarci."
+		"[english]infra_ending_email_002_content_3" "Mark,
+
+I heard that you live in Finland now. I know that everything didn't go as expected, but at least you tried. I just wanted to tell you that I'm sorry of what I said about you. Anyway, we started to survey this mess as Steve said. It's probably going to be a long and boring project. We're hoping that you could join and help us with this."
+
+// ------------------------------------------------------------------
+
+		"infra_ending_email_002b_subject" "Beer per te, amico mio! Birra!"
+		"[english]infra_ending_email_002b_subject" "Beer for you, my friend! Beer!"
+
+		"infra_ending_email_002_content_4" "Mark,
+
+Non parliamo da un po'. Quindi vorrei organizzare un incontro sabato prossimo. Incontriamoci al bar Osmo Hill Bar per bere della Osmo Olut ghiacciata. Offro io! Vorrei parlare della tua situazione attuale. Siamo un po' preoccupati per te, per dove abiti ora. Sarebbe veramente bello incontrati e magari parlare dei bei vecchi tempi.
+
+Ti ricordi di quei motociclisti, vero? Quei bastardi dei Devil's Angels! Forse li incontreremo di nuovo! heh, volevo fargli una foto, ma si sono rifiutati, arrabbiandosi un pochino. Starei stato nei guai se non fosse stato per te! Cavolo, è stato così spaventoso! Vieni al bar Osmo Hill sabato prossimo e possiamo parlare di più.
+
+Steve"
+		"[english]infra_ending_email_002_content_4" "Mark,
+
+We haven't talked for a while. So, I'd like to arrange a meeting next Saturday. Let's meet at Osmo Hill Bar and have some ice cold Osmo Olut. I will offer! I really want to talk about your current situation. We are a little worried about you, because we heard where you live now. It would be so nice to meet you and maybe talk about those old good times.
+
+You remember those bikers, right? Those Devil's Angels bastards! Maybe we're going to meet them again! Heh, I really wanted just take a picture of them, but they refused and got a little angry. I would have been in trouble without you! Damn, it was so scary! Just come to Osmo Hill bar next Saturday and we can talk more.
+
+Steve"
+		"infra_ending_email_002_content_5" "Mark,
+
+Cavolo, quell'ultima sera al bar Osmo Hill! Non mi aspettavo che accadesse ciò! Quei dannati motociclisti Devil's Angels non l'hanno visto arrivare! Ho fatto anche delle belle foto! Te le mostrerò dopo. La mia preferita è quella dove uno di quei bastardi ti colpisce in faccia! Heh. Comunque, ti va di vederci di nuovo sabato prossimo? C'è qualcosa di cui vorrei parlarti!
+
+Steve"
+		"[english]infra_ending_email_002_content_5" "Mark,
+
+Damn, that last night at Osmo Hill Bar! That was something that I didn't expect to happen! Those damn Devil's Angels bikers didn't see that coming! I also took some good pictures! I'm going to show them later. My favorite is that where one of those bastards hits you in the face! Heh. Anyway, let's meet again next Saturday? There's something I wanted to talk about!
+
+Steve"
+
+		"infra_ending_email_002_content_6" "Mark!
+
+Non ho tue notizie da un po'. Stavo pensando di venirti a trovare qualche volta. Non sono mai stato in Finlandia. Magari potremmo andare ad un bar locale e berci un po' di Osmo Olut! Stalburg è un casino ora, ma dovresti tornare. C'è parecchio lavoro da fare e apprezzeremmo il tuo aiuto! Ci vorrà un po' per ispezionare il tutto ed è piuttosto interessante!"
+		
+		"[english]infra_ending_email_002_content_6" "Mark!
+
+I haven't heard from you in a while. I was thinking of coming to visit sometime. I've never been in Finland. Maybe we can go to some local bar and drink some Osmo Olut! Stalburg is a damn mess now, but you should come here. There's a lot of work to do and we would appreciate your help! It's going to take a while to survey everything and it's actually quite interesting!"
+
+// -------------------------------------------------------------
+
+		"infra_ending_email_003_subject" "Messaggio per Markku"
+		"[english]infra_ending_email_003_subject" "Message to Markku"
+
+		"infra_ending_email_003_content_decrypted" "Messaggio decrittografato; Firma valida di Raven Messenger <raven.messenger@stalburg.ts>"
+		"[english]infra_ending_email_003_content_decrypted" "Decrypted message; Good signature from Raven Messenger <raven.messenger@stalburg.ts>"
+		"infra_ending_email_003_content_1" "Ciao Markku,
+
+Ti abbiamo tenuto d'occhio. Sappiamo che sei entrato nel bunker S.N.W. e ora ci chiediamo perché non abbiamo avuto informazioni a riguardo. Cosa hai fatto con tutte le informazioni che hai ottenuto? Inviaci tutto ciò che hai o ci saranno conseguenze. Riceverai istruzioni a breve."
+		"[english]infra_ending_email_003_content_1" "Hello Markku,
+
+We've been keeping an eye on you. We know that you've been inside the S.N.W. bunker and now we're wondering why we haven't heard anything about it. What you did you do with all the information you have? Send us everything you have, or there will be consequences. You will receive your instructions shortly."
+
+		"infra_ending_email_003_content_2" "Ciao Markku,
+
+Grazie per aver rivelato questo complotto. Non preoccuparti, non diremo a nessuno che sei stato tu. Siamo lieti che tu sia riuscito a raccogliere tutte queste informazioni, ma c'è ancora qualcosa che manca. Se hai altre informazioni riguardo S.N.W, per favore, inviacele."
+		"[english]infra_ending_email_003_content_2" "Hello Markku,
+
+Thank you for revealing this conspiracy. Don't worry, we're not going to tell anyone that it was you. We're delighted that you managed to gather all this information, but there's still something missing. If you still have any information regarding S.N.W, please send it to us."
+
+		"infra_ending_email_003_content_3" "Ciao Markku,
+
+Siamo veramente contenti che tu abbia rivelato questo complotto per intero. Non preoccuparti, non diremo a nessuno che sei stato tu. Semmai dovesse servirti un lavoro, contattaci. Saremo lieti di assumerti per trovare maggiorni informazioni relative ai progetti S.N.W. ed S.M.V.. Probailmente conosci già quella malattia dei funghi, o comunque tu voglia chiamare, ma ciò che potresti non sapere è che la stanno ancora sviluppando. Ci sono state alcune segnalazioni di persone che la hanno contratta e stiamo cercando di fermarla.
+Ti starai chiedendo chi siamo. Purtroppo, non possiamo dirtelo perché ci metterebbe in pericolo. Ricordati di contattarci se vuoi un lavoro."
+		"[english]infra_ending_email_003_content_3" "Hello Markku,
+
+We're so happy that you revealed this whole conspiracy. Don't worry, we're not going to tell anyone that it was you. If you ever want a job, contact us. We would gladly hire you to find more information related to the S.N.W and S.M.V projects. You probably already know about that mushroom disease, or whatever you want to call it, but what you might not know is that they're still developing it. There have also been some reports that some people have it, and now we're trying stop it.
+
+You're probably wondering who we are. Sadly, we can't tell you, because it would get us in danger. Remember to contact to us if you want a job."
+
+// --------------------------------------------------------------
+
+		"infra_ending_email_004_subject" "Volevo parlarti"
+		"[english]infra_ending_email_004_subject" "I just wanted to talk to you"
+
+		"infra_ending_email_004_content_1" "Mark,
+
+È da un po' che sto cercando di contattarti. So che è stata dura per te. So che non è andato tutto come previsto, ma sei comunque riuscito a riparare quel reattore! Hai salvato questa città, Mark. Dovresti esserne fiero. Per favore, rispondi la prossima volta che ti chiamo. Vorrei solo parlarti e sapere se sia tutto ok.
+
+Paul Lauwens
+Direttore Operazioni Locali, Stalburg
+National Consulting Group"
+		"[english]infra_ending_email_004_content_1" "Mark,
+
+I've been trying to reach you for a while. I know that it's been hard for you. I know that everything didn't go as expected, but you still fixed that reactor! You saved this city, Mark. You should be proud of it. Please answer the next time I call you. I just want to talk to you and know if everything is okay.
+
+Paul Lauwens
+Local Operations Director, Stalburg
+National Consulting Group"
+
+		"infra_ending_email_004_content_3" "Mark,
+
+C'è qualcosa di importante di cui voglio parlarti quando torni in ufficio. Ho qualcosa da dirti. Riguarda quei documenti che volevo fotografassi. È qualcosa che mi sta dando fastidio da un po'. Comunque sia, abbiamo un altro lavoro. Ti chiamerò più tardi e ne potremmo parlare di più.
+
+Paul Lauwens
+Direttore Operazioni Locali, Stalburg
+National Consulting Group"
+		"[english]infra_ending_email_004_content_3" "Mark,
+
+There is something important I want to talk about when you come back to the office. I have something to tell you. It's related to those documents that I wanted you to photograph. It's something that has been bothering me a for a while. Anyway, we have a new job. I'm going to call later, and we can talk more.
+
+Paul Lauwens
+Local Operations Director, Stalburg
+National Consulting Group"
+
+		"infra_ending_email_004_content_4" "Mark,
+
+Mi dispiace di non averti parlato del mio accordo riguardo quei documenti. Spero tu capisca perché l'ho fatto. Dobbiamo parlarne in dettaglio al tuo ritorno in ufficio. L'ho anche detto a tutti gli altri e pare che gli stia bene. Almeno posso mantenere il mio lavoro.
+
+Mi aspettavo che sarebbe successo qualcosa a seguito della publicazione dei documenti S.N.W., ma forse volgiono mantenere un basso profilo. È stato tutto tranquillo, ma devo comunque fare attenzione.
+
+Paul Lauwens
+Direttore Operazioni Locali, Stalburg
+National Consulting Group"
+		"[english]infra_ending_email_004_content_4" "Mark,
+
+I'm sorry that I didn't tell you about that deal I made regarding those documents. I hope that you understand why I did that. We have to talk more when you're coming back to the office. I also told everyone else about it, and it seems that they're okay with it. At least I can keep my job.
+
+I was expecting something to happen to me when those S.N.W. documents were published, but maybe they want to keep a low profile. It has been quiet, but I still have to be careful.
+
+Paul Lauwens
+Local Operations Director, Stalburg
+National Consulting Group"
+
+		"infra_ending_email_004_content_5" "Mark,
+
+È da un po' che sto cercando di contattarti. Spero sia tutto ok lì in Finlandia. Come potresti aver sentito, abbiamo una bella attività da svolgere qui. Abbiamo condotto ispezioni del fallout nucleare e ci servirebbe una mano. Puoi venire ad aiutarci quando vuoi.
+
+Volevo anche chiederti delle tue condizioni. Sei stato esposto a radiazioni nucleari e vorrei conoscere la situazione attuale. Spero non sia niente di troppo grave. Comunque, ti chiamerò più tardi. Per favore, rispondimi questa volta.
+
+Paul Lauwens
+Direttore Operazioni Locali, Stalburg
+National Consulting Group"
+		"[english]infra_ending_email_004_content_5" "Mark,
+
+I've been trying to reach you for a while. I hope that everything is fine in Finland. We have quite a big project here as you might've heard. We've conducted surveys of the fallout and help is needed. You can come here to help any time.
+
+I also wanted to ask about your condition. You were exposed to radiation and I really want to know the current situation. I hope it's not too bad. Anyway, I'm going to call you later. Please answer this time.
+
+Paul Lauwens
+Local Operations Director, Stalburg
+National Consulting Group"
+
+		"infra_ending_email_004_content_6" "Mark,
+
+È da un po' che sto cercando di contattarti. Spero sia tutto ok lì in Finlandia. Come potresti aver sentito, abbiamo una bella attività da svolgere qui. Abbiamo condotto ispezioni del fallout nucleare e ci servirebbe una mano. Puoi venire ad aiutarci quando vuoi.
+
+Mi dispiace di non averti parlato del mio accordo riguardo quei documenti. Spero tu capisca perché l'ho fatto. Dobbiamo parlarne in dettaglio se/quando tornerai a Stalburg. L'ho anche detto a tutti gli altri e pare che gli stia bene. Almeno posso mantenere il mio lavoro.
+
+Volevo anche chiederti delle tue condizioni. Sei stato esposto a radiazioni nucleari e vorrei conoscere la situazione attuale. Spero non sia niente di troppo grave. Comunque, ti chiamerò più tardi. Per favore, rispondimi questa volta.
+
+Paul Lauwens
+Direttore Operazioni Locali, Stalburg
+National Consulting Group"
+		"[english]infra_ending_email_004_content_6" "Mark,
+
+I've been trying to reach you for a while. I hope that everything is fine in Finland. We have quite a big project here as you might've heard. We've conducted surveys of the fallout and help is needed. You can come here to help any time.
+
+I'm sorry that I didn't tell you about that deal I made regarding those documents. I hope that you understand why I did that. We have to talk more if/when you're coming back to Stalburg. I also told everyone else about it, and it seems that they're okay with it. At least I can keep my job.
+
+I also wanted to ask about your condition. You were exposed to radiation and I really want to know the current situation. I hope it's not too bad. Anyway, I'm going to call you later. Please answer this time.
+
+Paul Lauwens
+Local Operations Director, Stalburg
+National Consulting Group"
+	}
+}
