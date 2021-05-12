@@ -13,7 +13,6 @@ I'm not a professional translator so there might be some errors. Please feel fre
 * Run the bat file
 * Open the game and enjoy
 
-
 ## Italian / Italiano
 Questa è una traduzione non ufficiale per Infra ([questo gioco](https://store.steampowered.com/app/251110/INFRA/)).
 Contiene le traduzioni dei sottotitoli e alcuni di alcuni elementi UI ed email in gioco. Le texture, i giornali e le note scritte a mano non sono state tradotte (non sono in grado di farlo - mai usati quei programmi grafici).
