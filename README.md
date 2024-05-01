@@ -1,5 +1,8 @@
-# [Unofficial] Infra Game Italian Translation
-![Logomister](https://user-images.githubusercontent.com/44880451/114082924-a5e65800-98ae-11eb-880c-544aa8504191.jpg)
+<h1 align="center">[Unofficial] Infra Game Italian Translation</h1> 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/44880451/114082924-a5e65800-98ae-11eb-880c-544aa8504191.jpg">
+</p>
+
 ## English / Inglese
 This is an Unofficial Italian translation for Infra ([this game](https://store.steampowered.com/app/251110/INFRA/)).
 It contains subtitles and some UI/in-game emails translations. Textures, newspapers and notes are currently untranslated (have no skills to do that).
