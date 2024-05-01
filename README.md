@@ -11,6 +11,7 @@ I'm not a professional translator so there might be some errors. Please feel fre
 * Extract the .txt files here
 * Go back to your game installation dir/infra and extract the .bat file here - Correct path (replace $GAME_DIR with your installation path): $GAME_DIR/
 * Run the bat file
+* On Steam, right click the game on your library, then choose "Properties". In the "General" tab add `-language italian` to the "Launch Options" section.
 * Open the game and enjoy
 
 ## Italian / Italiano
@@ -24,4 +25,5 @@ Non sono un traduttore professionista quindi potrebbero esserci alcuni errori. P
 * Estrarre i file .txt qui
 * Tornare indietro alla cartella di installazione del gioco - Percorso corretto (sostituire il percorso di installazione a $GAME_DIR): $GAME_DIR/
 * Aprire il file bat
+* Su Steam, fare click col pulsante destro del mouse sul gioco nella libreria, quindi scegliere "Proprietà". Nella scheda "Generali" aggiungere `-language italian` alla sezione "Opzioni di Avvio".
 * Avviare il gioco
