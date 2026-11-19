@@ -28,7 +28,7 @@ At the Windows command prompt that opens, run the batch file.
 ```cmd
 infra-compile-captions.bat
 ```
-When compilation finishes, type `exit` to return to your Linux shell.
+When compilation finishes, press any key, then type `exit` to return to your Linux shell.
 
 ## Italian / Italiano
 Questa è una traduzione italiana non ufficiale di [INFRA](https://store.steampowered.com/app/251110/INFRA/). Include i sottotitoli, alcuni testi dell’interfaccia e le email di gioco. Le texture, i giornali e le note scritte a mano sono ancora in inglese.
@@ -55,4 +55,4 @@ Nel prompt dei comandi di Windows che si apre, esegui il file `.bat`.
 ```cmd
 infra-compile-captions.bat
 ```
-Al termine della compilazione, digita `exit` per tornare alla shell di Linux.
+Al termine della compilazione, premi un tasto qualunque, poi digita `exit` per tornare alla shell di Linux.
